@@ -1,0 +1,102 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_natives":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_max": "",
+      "open_ads_alien":"NULL",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 1,
+      "initialize_sdk":"higher education",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "health insurance",
+      "high_paying_keyword_2": "health insurance",
+      "high_paying_keyword_3": "health insurance",
+      "high_paying_keyword_4": "stock investment",
+      "high_paying_keyword_5": "higher education",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Drillman",
+      "skin_url":"https://minecraft.novaskin.me/skin/6939703461.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/AsDvxutGXzzzy4SkeMvCNndJjQ1j2GlXMq8dM8Okm78HcfEC6lvUOFsT79b0dxbAB05waBbEsx-5bHXi9LibCH-ZI0zKNu5Wys0",
+      "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman1.mcpack"
+    },
+    {
+      "id":2,
+      "name_skin":"Titan Drillman",
+      "skin_url":"https://minecraft.novaskin.me/skin/6874403275.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/0hwB7TkE9LtnvpeiMUjwK_eXdTo-Io7IR781Ni3fnZsAiEl81dXr4wgvTSMkty9YwCxyiZkFNmeTxVdrISVgWNYjmcJ45rMHGA",
+      "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman2.mcpack"
+    },
+    {
+      "id":3,
+      "name_skin":"Titan Drillman 2",
+      "skin_url":"https://minecraft.novaskin.me/skin/6835953482.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/EwlZx1Z44GSTATTQeqS6c9jw8M7AmcVmKtBrmYKHhK3wxqcqmEhGpDr0fJDRrPcSsF4hk8wyKNSBySXSD-e5AHh0Xf2Opso6EW0",
+      "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman3.mcpack"
+    },
+    {
+      "id":4,
+      "name_skin":"Drillman Black",
+      "skin_url":"https://minecraft.novaskin.me/skin/5990843138.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/pa60kExUgLQBlewlFISiVoqRPWekN30Vy7sXHvOqt34lG9WX7bUgAtC6Knvh4Y5tSKJcGD_RGoeYD6CWvlG-1QywIjt85D585Vk",
+      "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman4.mcpack"
+    },
+    {
+      "id":5,
+      "name_skin":"Drillman",
+      "skin_url":"https://minecraft.novaskin.me/skin/5812407536451584.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/rsJKUW6vtwS2aX4ovOhySaeAsWSsVY2mTKjNHotuBbP3LdACVo-OKtxyTRlvM98CopbGBl3iXahWlv_8SoswloI",
+      "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman5.mcpack"
+    },
+    {
+      "id":6,
+      "name_skin":"Drillman",
+      "skin_url":"https://minecraft.novaskin.me/skin/10081077.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/u5K2JiayIlMyTRK3PNZbMt4nKnGQ4itc72fPJvEub-ojDjnm9uR2T5ohEqzMmTBXFtTnaAF00h2EOc0PhmEQ5g",
+      "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman6.mcpack"
+    }
+
+  ],
+  "Addons":
+  [
+    {
+      "id": 1,
+      "name_add": "Toilet Addon Multiverse",
+      "add_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/addon1.mcaddon",
+      "addB_url": "https://github.com",
+      "addR_url": "https://github.com",
+      "view_add": "https://api.mcpedl.com/storage/submissions/188335/images/skibidi-toilet-vs-cameraman-addon_9.png",
+      "des_add" : "file:///android_asset/addon1.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id": 1,
+      "name_map": "Poppy Map Playtime",
+      "view_map": "https://api.mcpedl.com/storage/submissions/130851/images/poppy-playtime_7.png",
+      "map_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/maps1.mcworld",
+      "des_map": "file:///android_asset/maps1.html"
+    }
+  ]
+}
